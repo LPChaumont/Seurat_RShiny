@@ -1,3 +1,3 @@
 # Seurat_RShiny
 
-R Shiny app to visualize single-cell RNA sequencing data from a Seurat object.
+R Shiny app to analyze and visualize single-cell RNA sequencing data from a Seurat object.
