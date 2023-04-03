@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Seurat object from tutorial
-.seurat_object.rds
+seurat_object.rds
