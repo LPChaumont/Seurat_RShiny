@@ -1,0 +1,15 @@
+1. From R
+You can run a Shiny app by giving the name of its directory to the function runApp. For example if your Shiny app is in a directory called my_app, run it with the following code:
+
+library(shiny)
+runApp("my_app")
+
+
+2. From the command line
+You can also do this by opening a terminal or console window to the Shiny app's directory:
+
+cd path\to\project
+
+And run the following code:
+
+Rscript.exe -e "shiny::runApp('app.R')"
